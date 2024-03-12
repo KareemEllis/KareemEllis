@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi there, I'm Kareem Ellis 👋</h1>
+  <h1 align="center">Kareem Ellis</h1>
   <h3 align="center">Software Engineer | Computer Science Undergraduate Student at the University of the West Indies</h3>
 </p>
 
